@@ -1,9 +1,10 @@
 fileFormatVersion: 2
 guid: 4a83271d5be1fdc479b5f566f3874aa3
-timeCreated: 1447692060
+timeCreated: 1448198319
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: "stand004  - \u526F\u672C_0"
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -48,7 +49,17 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: "stand004  - \u526F\u672C_0"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

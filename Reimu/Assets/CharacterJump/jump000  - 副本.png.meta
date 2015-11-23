@@ -1,9 +1,10 @@
 fileFormatVersion: 2
 guid: c595ceaeb2217174cb46a5eb807fac7b
-timeCreated: 1447692065
+timeCreated: 1448197733
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: "jump000  - \u526F\u672C_0"
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -37,7 +38,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +49,17 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: "jump000  - \u526F\u672C_0"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
